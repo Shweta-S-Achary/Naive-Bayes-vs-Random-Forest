@@ -2,11 +2,11 @@
 
 Commands for execution:
 
-# Naive Nayes
+# Naive Bayes Execution
 
 python NaiveBayes.py
 
-# Random Forest
+# Random Forest Execution
 
 python RandomForest.py
 
