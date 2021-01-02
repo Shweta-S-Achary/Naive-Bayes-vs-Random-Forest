@@ -16,4 +16,4 @@ The sample dataset used is a bank note authentication dataset from the UCI repos
 
 ## Observation
 
-For this data, Naive Bayes algorithm gives an accuracy of 86.16% and Random Forest algorithm gives an accuracy of 98.78%
+For this data, Naive Bayes algorithm gives an accuracy of 86.16%, whereas Random Forest algorithm gives an accuracy of 98.78%
